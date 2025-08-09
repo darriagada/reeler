@@ -1,7 +1,7 @@
 # Reeler
 Prueba tus reels y stories animados antes de subirlos a Instagram
 
-Simplemente diseñé esto como una herramienta personal para probar mis reels antes de subirlos y decidí compartirla aquí como algo más decente.
+Cuando diseñas tus reels o stories con motion graphics es difícil ver cómo se visualizará en la App. Pero con Reeler podrás arrastrar tu render y experimentar sin necesidad de guardar tu vídeo en el dispositivo cada vez que hagas un pequeño ajuste.
 
 <img width="1920" height="1080" alt="Still" src="https://github.com/user-attachments/assets/00298541-f99f-400c-b84e-372b1f529c98" />
 
