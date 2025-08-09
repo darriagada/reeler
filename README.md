@@ -22,7 +22,7 @@ Cuando diseñas tus reels o stories con motion graphics es difícil ver cómo se
 
 ## Bugs conocidos
 * No acepta imágenes estáticas aún pero estoy trabajando en ello.
-* Las dimensiones **pueden variar ligeramente** según dispositivo, por lo que te aconsejo usar esta herramienta como una referencia. Ningún Reel/Storie se verá igual en todos los dispositivos. Ni siquiera se ven iguales en la app versus la versión web.
+* Las dimensiones **pueden variar ligeramente** según dispositivo, por lo que esta herramienta es referencial y su vista es aproximada. Ningún Reel/Storie se verá igual en todos los dispositivos. Ni siquiera se ven iguales en la app versus la versión web.
 
 ## Descargo de responsabilidad
 * Esta herramienta no está afiliada con Meta o Instagram. tampoco tiene trackers ni scripts extraños.
