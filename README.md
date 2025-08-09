@@ -3,6 +3,8 @@ Prueba tus reels y stories animados antes de subirlos a Instagram
 
 Simplemente diseñé esto como una herramienta personal para probar mis reels antes de subirlos y decidí compartirla aquí como algo más decente.
 
+<img width="800" alt="cover" src="https://github.com/user-attachments/assets/410e2561-11cd-420d-89f7-9751875f96a0" />
+
 ## Características
 * **Modo Storie** permite visualizar cómo se ve tu vídeo en el modo Storie.
 * **Modo Oscuro** permite ver cómo se ven lo colores de tu vídeo en un entorno nocturno.
